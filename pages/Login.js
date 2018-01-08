@@ -10,8 +10,8 @@ import {
 } from '../lib/aws-cognito-identity';
 
 const awsCognitoSettings = {
-    UserPoolId: 'us-east-2_eXcGH96Cn',
-    ClientId: '4mfb2dhh3c77h2td9m96f252hc'
+    UserPoolId: 'INSERTUSERPOOLID',
+    ClientId: 'INSERTCLIENTID'
 };
 
 
